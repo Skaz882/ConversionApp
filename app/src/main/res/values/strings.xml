@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConversionApp</string>
+    <string name="title">Currency Conversion</string>
+    <string name="hint">Currency to Convert</string>
+    <string name="doll_to_peso">Convert Dollars to Pesos</string>
+    <string name="peso_to_doll">Convert Pesos to Dollars</string>
+    <string name="button">Convert!</string>
+</resources>
